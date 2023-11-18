@@ -1,7 +1,7 @@
 <template>
-  <!-- <SwiperDemo />
+  <SwiperDemo />
   <AxiosDemo />
-  <ApiDemo /> -->
+  <ApiDemo />
   <CorsDemo />
 </template>
 

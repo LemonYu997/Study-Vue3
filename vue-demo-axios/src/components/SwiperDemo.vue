@@ -2,13 +2,13 @@
     <div>
         <swiper-container :pagination="{clickable: true}">
             <swiper-slide>
-                <img src="../assets/logo.svg" alt="">
+                <img src="../assets/logo.png" alt="">
             </swiper-slide>
             <swiper-slide>
-                <img src="../assets/logo.svg" alt="">
+                <img src="../assets/logo.png" alt="">
             </swiper-slide>
             <swiper-slide>
-                <img src="../assets/logo.svg" alt="">
+                <img src="../assets/logo.png" alt="">
             </swiper-slide>
         </swiper-container>
     </div>

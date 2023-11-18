@@ -12,14 +12,5 @@ export default defineConfig({
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
-  },
-  //解决跨域问题
-  devServer: {
-    proxy: {
-      '/api': {
-          target: 'http://iwenwiki.com',
-          chengpinOrigin: true
-        }
-      }
-    }
+  }
 })

@@ -11,3 +11,10 @@ Vue3官方文档：https://cn.vuejs.org/
 ```shell
 npm init vue@latest
 ```
+
+另一种方式：
+先全局安装vue，再创建项目
+```shell
+cnpm install -g @vue/cli
+vue create vue-demo
+```
